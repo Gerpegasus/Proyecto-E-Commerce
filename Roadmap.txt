@@ -87,4 +87,4 @@ Gestión de usuarios: Registro, login y autenticación con JWT o sesión.
 Catálogo de productos: Listado de productos con opción para agregar al carrito.
 Carrito de compras: Agregar, eliminar productos y ver el total.
 Procesamiento de pagos: Simulado (opcionalmente con integración real en el futuro).
-Órdenes: Confirmación de compras y visualización del historial.
+Órdenes: Confirmación de compras y visualización del historial
